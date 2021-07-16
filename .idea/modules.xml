@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../levisatterthwaite-java-blue/module-1/05_Command_Line_Programs/lecture-final/m01d05-command-line-programs-lecture-final.iml" filepath="$PROJECT_DIR$/../../levisatterthwaite-java-blue/module-1/05_Command_Line_Programs/lecture-final/m01d05-command-line-programs-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-08-DAO_and_Integration_testing_exercise-pair/m02d07-dao-exercises-pair.iml" filepath="$PROJECT_DIR$/../07-08-DAO_and_Integration_testing_exercise-pair/m02d07-dao-exercises-pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../team0-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/m1-java-capstone-catering-system.iml" filepath="$PROJECT_DIR$/../../team0-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/m1-java-capstone-catering-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2-capstone-excelsior-venues.iml" filepath="$PROJECT_DIR$/m2-capstone-excelsior-venues.iml" />
+    </modules>
+  </component>
+</project>
